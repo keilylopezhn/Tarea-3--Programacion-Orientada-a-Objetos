@@ -1,0 +1,32 @@
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\bin\Debug\Programacion Orientada a Objetos.exe.config
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\bin\Debug\Programacion Orientada a Objetos.exe
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\bin\Debug\Programacion Orientada a Objetos.pdb
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion Orientada a Objetos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion Orientada a Objetos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion Orientada a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion Orientada a Objetos.exe
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion Orientada a Objetos.pdb
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmSuma.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmMenu.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmPromedio.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmLempirasaEuros.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmLempsaDolls.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmMillasaKilometros.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmVentaLlantas.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmMillasaMetros.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmEdadPromedio.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmSalbadia.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmSalHora.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmGallitro.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmAcumExa.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmConstructor.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmCuadrado.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmDiaMin.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmDoble.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmLibrOn.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmMetroPie.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmPulCm.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmSalAum.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmCubo.resources
+C:\Users\Usuario\Desktop\KEYLILISBETHLOPEZMEJIVAR-TAREA3\Programacion Orientada a Objetos\obj\Debug\Programacion_Orientada_a_Objetos.FORMULARIOS.FrmSemaMin.resources

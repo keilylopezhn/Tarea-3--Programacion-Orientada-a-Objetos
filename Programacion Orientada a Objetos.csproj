@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7086946-39DE-458E-BCD4-A8CFFAC31D39}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Programacion_Orientada_a_Objetos</RootNamespace>
+    <AssemblyName>Programacion Orientada a Objetos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASES\ACUEXA.cs" />
+    <Compile Include="CLASES\CONSTRUCTOR.cs" />
+    <Compile Include="CLASES\CUADRADO.cs" />
+    <Compile Include="CLASES\CUBO.cs" />
+    <Compile Include="CLASES\DIAMIN.cs" />
+    <Compile Include="CLASES\DOBLE.cs" />
+    <Compile Include="CLASES\EDADPROMEDIO.cs" />
+    <Compile Include="CLASES\GALITRO.cs" />
+    <Compile Include="CLASES\LEMPEURO.cs" />
+    <Compile Include="CLASES\LEMPIRASADOLARES.cs" />
+    <Compile Include="CLASES\LIBRON.cs" />
+    <Compile Include="CLASES\METROOPIE.cs" />
+    <Compile Include="CLASES\MIKILO.cs" />
+    <Compile Include="CLASES\MIMETRO.cs" />
+    <Compile Include="CLASES\PROMEDIO.cs" />
+    <Compile Include="CLASES\PULGADASACM.cs" />
+    <Compile Include="CLASES\SALARIOENBASEADIAS.cs" />
+    <Compile Include="CLASES\SALARIOEXTRA.cs" />
+    <Compile Include="CLASES\SALBAUMEN.cs" />
+    <Compile Include="CLASES\SEMINU.cs" />
+    <Compile Include="CLASES\SUMARIO.cs" />
+    <Compile Include="CLASES\VENTALLANTAS.cs" />
+    <Compile Include="FORMULARIOS\FrmAcumExa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmAcumExa.Designer.cs">
+      <DependentUpon>FrmAcumExa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmConstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmConstructor.Designer.cs">
+      <DependentUpon>FrmConstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmCuadrado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmCuadrado.Designer.cs">
+      <DependentUpon>FrmCuadrado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmCubo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmCubo.Designer.cs">
+      <DependentUpon>FrmCubo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmDiaMin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmDiaMin.Designer.cs">
+      <DependentUpon>FrmDiaMin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmDoble.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmDoble.Designer.cs">
+      <DependentUpon>FrmDoble.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmEdadPromedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmEdadPromedio.Designer.cs">
+      <DependentUpon>FrmEdadPromedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmGallitro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmGallitro.Designer.cs">
+      <DependentUpon>FrmGallitro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmLempirasaEuros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmLempirasaEuros.Designer.cs">
+      <DependentUpon>FrmLempirasaEuros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmLempsaDolls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmLempsaDolls.Designer.cs">
+      <DependentUpon>FrmLempsaDolls.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmLibrOn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmLibrOn.Designer.cs">
+      <DependentUpon>FrmLibrOn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMetroPie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMetroPie.Designer.cs">
+      <DependentUpon>FrmMetroPie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMillasaKilometros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMillasaKilometros.Designer.cs">
+      <DependentUpon>FrmMillasaKilometros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMillasaMetros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmMillasaMetros.Designer.cs">
+      <DependentUpon>FrmMillasaMetros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmPromedio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmPromedio.Designer.cs">
+      <DependentUpon>FrmPromedio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmPulCm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmPulCm.Designer.cs">
+      <DependentUpon>FrmPulCm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSalAum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSalAum.Designer.cs">
+      <DependentUpon>FrmSalAum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSalbadia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSalbadia.Designer.cs">
+      <DependentUpon>FrmSalbadia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSalHora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSalHora.Designer.cs">
+      <DependentUpon>FrmSalHora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSemaMin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSemaMin.Designer.cs">
+      <DependentUpon>FrmSemaMin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSuma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmSuma.Designer.cs">
+      <DependentUpon>FrmSuma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmVentaLlantas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORMULARIOS\FrmVentaLlantas.Designer.cs">
+      <DependentUpon>FrmVentaLlantas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FORMULARIOS\FrmAcumExa.resx">
+      <DependentUpon>FrmAcumExa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmConstructor.resx">
+      <DependentUpon>FrmConstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmCuadrado.resx">
+      <DependentUpon>FrmCuadrado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmCubo.resx">
+      <DependentUpon>FrmCubo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmDiaMin.resx">
+      <DependentUpon>FrmDiaMin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmDoble.resx">
+      <DependentUpon>FrmDoble.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmEdadPromedio.resx">
+      <DependentUpon>FrmEdadPromedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmGallitro.resx">
+      <DependentUpon>FrmGallitro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmLempirasaEuros.resx">
+      <DependentUpon>FrmLempirasaEuros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmLempsaDolls.resx">
+      <DependentUpon>FrmLempsaDolls.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmLibrOn.resx">
+      <DependentUpon>FrmLibrOn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmMetroPie.resx">
+      <DependentUpon>FrmMetroPie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmMillasaKilometros.resx">
+      <DependentUpon>FrmMillasaKilometros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmMillasaMetros.resx">
+      <DependentUpon>FrmMillasaMetros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmPromedio.resx">
+      <DependentUpon>FrmPromedio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmPulCm.resx">
+      <DependentUpon>FrmPulCm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmSalAum.resx">
+      <DependentUpon>FrmSalAum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmSalbadia.resx">
+      <DependentUpon>FrmSalbadia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmSalHora.resx">
+      <DependentUpon>FrmSalHora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmSemaMin.resx">
+      <DependentUpon>FrmSemaMin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmSuma.resx">
+      <DependentUpon>FrmSuma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORMULARIOS\FrmVentaLlantas.resx">
+      <DependentUpon>FrmVentaLlantas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
